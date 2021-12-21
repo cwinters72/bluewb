@@ -2,6 +2,14 @@ body {
     font-family: "Delius Swash Caps", Arial, Helvetica, sans-serif;
 }
 
+i {
+    font-size: 2rem;
+}
+
+.h2-no-margin{
+    margin-bottom: 0;
+}
+
 .site-header {
 	line-height: 1;
     background-color: #fee1e1;
